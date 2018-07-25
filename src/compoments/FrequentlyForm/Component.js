@@ -1,5 +1,5 @@
 import React, { Component } from 'react'; // import from react
-import { rectangleGenerator } from '../../utils/rectangle-generator';
+import { rectangleGenerator } from '../../utils/rectangle-generator/index';
 import { Box, Button, Separator, Spinbox, Text, Area, StyledText, Group } from 'proton-native'; // import the proton-native components
 
 class FrequentlyForm extends Component {
