@@ -12,6 +12,7 @@
     "lodash": "^4.17.10",
     "onoff": "^3.2.0",
     "proton-native": "latest",
+    "rectangle-generator-thread-worker": "file:modules/rectangle-generator-thread-worker",
     "sleep": "^5.1.1",
     "threads": "^0.12.0"
   },
